@@ -1,2 +1,4 @@
 # Millennium-Falcon
-Machine Learning Projects
+- Data Cleansing Projects
+- Data Visualisation Projects
+- Machine Learning Projects
